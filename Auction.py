@@ -80,7 +80,7 @@ def res():
         else:
             initial_price=30 #if ADMIN DIDN'T GIVE STARTING PRICE INITIAL PRICE WILL BE 30 .
             no_of_bidders=int(input("Enter no of bidders: "))
-            print("Item name is: painting")
+            print("Item name is: House")
             print(f"Starting price is {initial_price}")
             
 #uidl=["uid1","uid2","uid3","uid4","uid5","uid6","uid7","uid8","uid9","uid10"]
